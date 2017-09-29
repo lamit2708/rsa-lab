@@ -1,0 +1,120 @@
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2=b.shiftLeft(bitMissing) 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Length=b.bitLength() 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Binary=b2.toString(2);0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: BigInteger b3=b2.add(ONE); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: int b3Length=b3.bitLength(); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: String b3Binary=b3.toString(2);1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2=b.shiftLeft(bitMissing) 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Length=b.bitLength() 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Binary=b2.toString(2);0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: BigInteger b3=b2.add(ONE); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: int b3Length=b3.bitLength(); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: String b3Binary=b3.toString(2);1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2=b.shiftLeft(bitMissing) 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Length=b.bitLength() 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Binary=b2.toString(2);0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: BigInteger b3=b2.add(ONE); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: int b3Length=b3.bitLength(); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: String b3Binary=b3.toString(2);1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2=b.shiftLeft(bitMissing) 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Length=b.bitLength() 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Binary=b2.toString(2);0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: BigInteger b3=b2.add(ONE); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: int b3Length=b3.bitLength(); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: String b3Binary=b3.toString(2);1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2=b.shiftLeft(bitMissing) 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Length=b.bitLength() 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Binary=b2.toString(2);0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: BigInteger b3=b2.add(ONE); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: int b3Length=b3.bitLength(); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: String b3Binary=b3.toString(2);1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2=b.shiftLeft(bitMissing) 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Length=b.bitLength() 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Binary=b2.toString(2);0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: BigInteger b3=b2.add(ONE); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: int b3Length=b3.bitLength(); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: String b3Binary=b3.toString(2);1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2=b.shiftLeft(bitMissing) 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Length=b.bitLength() 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Binary=b2.toString(2);0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: BigInteger b3=b2.add(ONE); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: int b3Length=b3.bitLength(); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: String b3Binary=b3.toString(2);1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2=b.shiftLeft(bitMissing) 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Length=b.bitLength() 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Binary=b2.toString(2);0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: BigInteger b3=b2.add(ONE); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: int b3Length=b3.bitLength(); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: String b3Binary=b3.toString(2);1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2=b.shiftLeft(bitMissing) 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Length=b.bitLength() 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Binary=b2.toString(2);0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: BigInteger b3=b2.add(ONE); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: int b3Length=b3.bitLength(); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: String b3Binary=b3.toString(2);1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2=b.shiftLeft(bitMissing) 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Length=b.bitLength() 0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: b2Binary=b2.toString(2);0
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: BigInteger b3=b2.add(ONE); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: int b3Length=b3.bitLength(); 1
+Apr 11, 2017 12:05:51 AM PrimeApp createFixBigIntegerError
+INFO: Viewer: String b3Binary=b3.toString(2);1
